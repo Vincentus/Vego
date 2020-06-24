@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Vego</string>
+    <string name="app_in_name">Vego</string>
+    <string name="app_name_after">Sign Up</string>
+    <string name="text_bottom">Log in</string>
+    <string name="button_signin">Sign in</string>
+    <string name="button_signup">Sign Up</string>
+</resources>

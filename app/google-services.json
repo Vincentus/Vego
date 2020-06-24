@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "642417932075",
+    "firebase_url": "https://vego-c8fda.firebaseio.com",
+    "project_id": "vego-c8fda",
+    "storage_bucket": "vego-c8fda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:642417932075:android:2a8d7c42f169fb2b14b76e",
+        "android_client_info": {
+          "package_name": "com.example.vego"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "642417932075-sacu2mi02f12rem3vup945elialpclba.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vego",
+            "certificate_hash": "b7dfd32950ea903b01ca0595fd9b89896c9266fc"
+          }
+        },
+        {
+          "client_id": "642417932075-abkqreprhfarsttqidg7gvg2pca0rnua.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpJicL14VeXnp56NbJwlcFSeb6W08wRh8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "642417932075-abkqreprhfarsttqidg7gvg2pca0rnua.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
